@@ -31,7 +31,7 @@ const person = {
 // person.role[1] = 10;
 // person.role = [0, 'admin', 'user'];
 
-let favoriteActivities: string[];
+let favoriteActivities: any;
 favoriteActivities = ['Sports'];
 
 console.log(person.name);
